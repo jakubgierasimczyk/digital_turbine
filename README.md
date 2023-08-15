@@ -4,7 +4,6 @@ This repository was created in order to run analysis for the target variable `wi
 ## What can be found in the repository
 In this repository one can find:
 - notebook with the analysis (`notebook.ipynb`)
-- final model (`models/catboost_model`)
 - file that was used to create an environment (`environment.yml`)
 - utils with some helper functions used in the Notebook (`utils.py`)
 
@@ -14,4 +13,4 @@ In this repository one can find:
 - code was run using `WSL2` and `VSCode``
 
 
-Note. Plots for categorical variables are cleared to reduce Notebook size
+Note. Plots for categorical variables are cleared to reduce Notebook size. Same for files with models
